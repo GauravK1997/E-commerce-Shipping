@@ -1,2 +1,2 @@
 # E-commerce-Shipping
-This repository is created to deploy my Web App for the projects: E-commerce Shipping
+The Web App is live at: https://e-commerce-shipping-gaurav.herokuapp.com/
