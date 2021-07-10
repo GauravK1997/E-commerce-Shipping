@@ -11,7 +11,7 @@
 
 ---
 
-## Glimpse of the Project
+## A glimpse of the Project
 
 ### 1. If the order reaches on time
 
