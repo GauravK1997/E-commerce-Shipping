@@ -57,7 +57,7 @@ B) Using git:
 Initialize git in your local repository >> Copy & Paste the following command on the git terminal
 
 ```
-git clone https://github.com/GauravK1997/E-commerce-Shipping   # Cloning this Repository
+git clone https://github.com/GauravK1997/E-commerce-Shipping   # Cloning this Repository: git clone <Repository Link>
 ```
 
 The whole repository will be cloned on your local machine.
