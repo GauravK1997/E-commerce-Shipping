@@ -5,7 +5,7 @@
 
 ### This is an End-to-End Data Science Project built in order to help an International E-commerce Company to predict  whether their product will be delivered on the committed Delivery Time or not, based on certain parameters.
 
-### The Project has been deployed on 2 Cloud Platforms: Heroku Cloud & Amazon Web Services (AWS)
+### The Project has been deployed on 2 Cloud Platforms: Heroku Cloud & Amazon Web Services (AWS) Cloud
 
 ### The Web App is live at: https://e-commerce-shipping-gaurav.herokuapp.com/
 
